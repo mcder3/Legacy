@@ -4,6 +4,7 @@ En este repositorio se encontrara todo lo relacionado al trabajo que hice en el 
 ## Entre los elementos que se encontraran aqui:
 
 * Temas para KDE 4
+* Temas para Plasma 5 sin soporte
 * Temas clasicos para Aurorae
 * Decoradores para Emerald
 * Wallpapers antiguos
